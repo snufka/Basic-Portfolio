@@ -12,7 +12,8 @@ p {
 }
 
 body {
-    background-image: url("C:\Users\Marina\Documents\GitHub\Basic-Portfolio\assets\images\tree_bark.png");
+    background-image: url("C:\users\marina\documents\gitHub\basic-Portfolio\assets\images\books.jpg");
+    background-color: #ffffff;
   
   }
  
@@ -21,6 +22,7 @@ body {
     background-color: #ffffff;
     overflow: hidden;
     width: 950px;
+    
   }
   
   /* Style the links inside the navigation bar */
@@ -72,7 +74,7 @@ input[type=text], select, textarea {
   }
   
 
-}
+
 
 /*footer*/
 .footer {
@@ -80,7 +82,22 @@ input[type=text], select, textarea {
     left: 0;
     bottom: 0;
     width: 100%;
-    background-color: red;
+    background-color: #666666;
     color: white;
     text-align: center;
+  }
+  /*image text block*/
+  .images
+  {
+    position: relative;
+    font-family: Arial;
+  }
+  .text-block {
+    position: absolute;
+    bottom: 20px;
+    right: 20px;
+    background-color: black;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
   }
