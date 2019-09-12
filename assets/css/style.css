@@ -104,6 +104,7 @@ input[type=text], select, textarea {
     position: relative;
     text-align: center;
     color: white;
+    margin: 5px;
 }
 
   .centered {
@@ -114,5 +115,6 @@ input[type=text], select, textarea {
     background-color: #4aaaa5;
     padding: 12px 70px;
     font-family: Arial, Helvetica, sans-serif;
+   
 
   }
