@@ -16,6 +16,11 @@ body {
     background-color: #ffffff;
   
   }
+header {
+  float:center;
+  width: 960px;
+
+}
  
 
 /*navigation bar*/
