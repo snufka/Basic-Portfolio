@@ -15,10 +15,11 @@ p {
 body {
     background-image: url("https://assets.awwwards.com/awards/images/2015/04/pattern.jpg");
     background-color: #ffffff;
+    width: 960px;
+    margin: 0 auto;
   
   }
 header {
-  float:center;
   width: 960px;
   margin: 0 auto;
 
@@ -66,8 +67,7 @@ header {
     border: 2px solid#dddddd;
     border-radius: 5px;
     margin: 0 auto;
-    
-    width: 960px;
+      width: 960px;
     box-sizing: border-box;  /* Add this */
   }
 
@@ -99,6 +99,8 @@ input[type=text], select, textarea {
 
 /*footer*/
 .footer {
+  border:2px 0px 0px 0px;
+  border-color: #4aaaa5;
     position: fixed;
     left: 0;
     bottom: 0;
@@ -106,6 +108,7 @@ input[type=text], select, textarea {
     background-color: #666666;
     color: white;
     text-align: center;
+    height: 40px;
   }
 
   /*text on image*/
