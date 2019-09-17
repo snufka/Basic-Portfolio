@@ -53,9 +53,15 @@ header {
     font-size:20px; 
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #777777;
+  
   }
   
-  
+  a{    
+    font-size:20px; 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #777777;
+    font-style: normal
+  }
 
 
 /* Block style*/
